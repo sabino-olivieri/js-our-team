@@ -36,5 +36,5 @@ Organizzare i singoli membri in card/schede. Se non vi sentite particolarmente c
     - [x] stampo curTeam[i].name
     - [x] stampo curTeam[i].role
     - [x] stampo curTeam[i].photo
-- [ ] prendo elemento dal DOM in cui voglio stampare
-- [ ] stampo nel DOM
+- [x] prendo elemento dal DOM in cui voglio stampare
+- [x] stampo nel DOM
