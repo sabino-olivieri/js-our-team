@@ -31,7 +31,7 @@ Organizzare i singoli membri in card/schede. Se non vi sentite particolarmente c
 ---
 #### Procedimento logico
 
-- [ ] creo array di object con le informazioni date
+- [x] creo array di object con le informazioni date
 - [ ] avvio ciclo for per leggere array
     - [ ] stampo curTeam[i].name
     - [ ] stampo curTeam[i].role
