@@ -27,14 +27,14 @@ Organizzare i singoli membri in card/schede. Se non vi sentite particolarmente c
 #### Variabili
 
 - *team[]* array di object
-- *curTeam[i]* object corrente
+- *curItem[i]* object corrente
 ---
 #### Procedimento logico
 
 - [x] creo array di object con le informazioni date
-- [ ] avvio ciclo for per leggere array
-    - [ ] stampo curTeam[i].name
-    - [ ] stampo curTeam[i].role
-    - [ ] stampo curTeam[i].photo
+- [x] avvio ciclo for per leggere array
+    - [x] stampo curTeam[i].name
+    - [x] stampo curTeam[i].role
+    - [x] stampo curTeam[i].photo
 - [ ] prendo elemento dal DOM in cui voglio stampare
 - [ ] stampo nel DOM
